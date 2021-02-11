@@ -1,0 +1,1 @@
+Working along "Programming TypeScript"
